@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijayant Raj Singh Raghav</h1>
 <h3 align="center">A CSE Undergraduate From PES University</h3>
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayant-raghav1306&label=Profile%20views&color=0e75b6&style=flat" alt="vijayant-raghav1306" /> </p>
 
